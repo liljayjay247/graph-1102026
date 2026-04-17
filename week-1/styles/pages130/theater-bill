@@ -7,9 +7,28 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+             <form action="http://www.theaterbill.com/login.php " method="post">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" required>
+        <br>
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required>
+        <br>
+        <button type="submit">Login</button>
+    </form>
+
     <div class="container">
-        <h1>Theater Bill</h1>
-        <img src="week-1/styles/pages130/robin.jpeg" alt="Robin" width="600">
+        <image src="robin.jpeg" alt="Robbing from the rich has never been so fun! A greedy prince has taken control of England, and it is up to Robin Hood and his band of Merry Men—and women!—to fight for justice and champion for the underdog. From comic mastermind Ken Ludwig (Lend Me a Tenor, Crazy for You) comes this rollicking and inventive play, packed with delightful thrills, amorous exploits, contagious laughs, and great beloved heroes like Little John, Friar Tuck, and Maid Marian. So get ready to dodge an arrow or two—you won’t want to miss a moment of this swashbuckling adventure!" width="800">
+            <ul>
+            <li>  Tickets: $14 General</li>
+            <li>  $12 Youth and Seniors</li>
+        </ul>
+
+Location: Second Stage Theatre, 2730 Wetmore Ave
+Everett WA 98201</p>]
     </div>
+    <form action="http://www.theaterbill.com/comments.php"><p>What did you think of the show leave a comment</p><textarea name="comments" cols="30" rows="4">enter  your  comments...</textarea></form>
+
+    <form action="http://jjjeter@students.everettcc.edu/subscribe.php"><p>Subscribe to our newsletter For new releases:</p><input type="email" name="email" placeholder="Enter your email"><button type="submit">Subscribe</button></form>
 </body>
 </html>
