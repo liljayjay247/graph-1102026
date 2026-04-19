@@ -4,18 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Theater Bill</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.css"href="images.css">
+    <link rel="stylesheet" href="css.css">
 </head>
 <body>
         
         
          <h1>Welcome to the Theater Bill! Here you can find information about our latest productions, ticket prices, and upcoming events.</h1>
-                <h3> We are dedicated to bringing you the best in live theater and providing an unforgettable experience for all our patrons.</h3>
-        <h2>May 21 - June 12, 2026</h2>                                           <h2>Thursdays - Saturdays: 7:30 PM
-Sundays: 2:00 PM</h2>        
-    <div class="container"><alignment="center"></alignment> <image src="robin.jpg" alt="Robbin"  height=" 175px">
-    <h2>Stealing From the rich has never been so fun! A greedy prince has taken control of England, and it is up to Robin Hood and his band of Merry Men—and women!to fight for justice and champion for the underdog.
-            From comic mastermind Ken Ludwig (Lend Me a Tenor, Crazy for You) comes this rollicking and inventive play, packed with delightful thrills, amorous exploits, contagious laughs, and great beloved heroes like Little John, Friar Tuck, and Maid Marian.</h2>
+          <h2>Thursdays - Saturdays: 7:30 PM Sundays: 2:00 PM</h2>        
+    <div class="container"><alignment="center"> <image src="robin.jpg" alt="Robbin"  height=" 175px"></alignment>
+    <h2>Stealing From the rich has never been so fun! A greedy prince has taken control of England, and it is up to Robin Hood and his band of Merry Men—and women!to fight for justice and champion for the underdog.</h2> 
+           <h2>From comic mastermind Ken Ludwig (Lend Me a Tenor, Crazy for You) comes this rollicking and inventive play, packed with delightful thrills, amorous exploits, contagious laughs, and great beloved heroes like Little John, Friar Tuck, and Maid Marian.</h2>
                 <p> So get ready to dodge an arrow or two—you won’t want to miss a moment of this swashbuckling adventure!</p> 
             <ul>
             <li>  Tickets: $14 General</li>
